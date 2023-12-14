@@ -1,4 +1,4 @@
-# MSEstonia Survivability
+# MS Estonia Survivability
 
 A dataset on the survivability of the MSEstonia ship disaster along with the processed data.
 
